@@ -1,14 +1,14 @@
 {
   "name": "kwengrclitools", // название проекта
   "version": "1.0.0", 
-  "description": "", // описание проекта
+  "description": "clitools", // описание проекта
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "" // репозиторий (заполним чуть позже)
+    "url": "https://github.com/123kweng/Kweng_r-CLI-Tools.git" // репозиторий (заполним чуть позже)
   },
   "keywords": [ // ключевые слова (необязательно)
     "", 
